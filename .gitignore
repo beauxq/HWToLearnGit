@@ -43,5 +43,7 @@ Temporary Items
 .apdisk
 *.exe
 *.layout
-HWToLearnGit/obj/Debug/main.o
 *.o
+
+# Code::Blocks project file
+*.cbp
